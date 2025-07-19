@@ -41,7 +41,34 @@ A Flutter-based online grocery shopping app featuring modern architecture, persi
 
 ## 📱 Screenshots
 
- Splash Screen Onboarding         Login   Home Screen   Products by Category       Cart    
+*  Splash  | Onboarding | Signin | Login | Signup                        
+![IMG-20250719-WA0022](https://github.com/user-attachments/assets/41c5ae10-c206-48bf-9b3c-7eb48ef2ee53)
+![IMG-20250719-WA0025](https://github.com/user-attachments/assets/a5540d47-5869-4509-9198-abe156c3505f)
+![IMG-20250719-WA0036](https://github.com/user-attachments/assets/8afce391-b886-4a25-855a-d065bc4a00ee)
+![IMG-20250719-WA0027](https://github.com/user-attachments/assets/88e1e5d8-2064-4451-8aab-5ec71d432966)
+![IMG-20250719-WA0023](https://github.com/user-attachments/assets/2503362b-dfee-4821-98dc-f9bc6eed4909)
+![IMG-20250719-WA0037](https://github.com/user-attachments/assets/07ae7376-44d1-4e49-bb79-c5cafa0032bc)
+![IMG-20250719-WA0020](https://github.com/user-attachments/assets/44b89b0b-7b9f-4ceb-9454-3e3cc4243619)
+
+
+*  Home Screen | Products by Category
+
+![IMG-20250719-WA0026](https://github.com/user-attachments/assets/1321bffe-0b6f-4e08-b63b-9c7c52c53681)
+
+
+*  Home Screen | Products by Category
+
+![IMG-20250719-WA0021](https://github.com/user-attachments/assets/baa71946-6873-47bc-8da7-cc75e17e5697)
+
+
+*  Cart
+
+![IMG-20250719-WA0038](https://github.com/user-attachments/assets/89ff2f67-11d0-48b9-ba39-a38d74dab707)
+
+
+*  Favourites
+
+![IMG-20250719-WA0019](https://github.com/user-attachments/assets/08218c2b-1d6a-421c-936c-70a5a554c9db)
 
 
 ## 🛠 Getting Started
