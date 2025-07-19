@@ -68,45 +68,45 @@ flutter run
 
 ## 📁 Project Structure
 
-lib/
-├── config/
-│   ├── components/
-│   ├── routes/
-├── models/
-│   ├── product_model/
-├── utils/
-├── services/
-│   ├── cart_services/
-│   ├── splash/
-├── view/
-│   ├── home/
-│   ├── login/
-│   └── onboarding/
-│   ├── signin/
-│   ├── signup/
-│   └── splash/
-└── view_model/
-    ├── cart_bloc/
-    ├── home_bloc
+* lib/
+* ├── config/
+* │   ├── components/
+* │   ├── routes/
+* ├── models/
+* │   ├── product_model/
+* ├── utils/
+* ├── services/
+* │   ├── cart_services/
+* │   ├── splash/
+* ├── view/
+* │   ├── home/
+* │   ├── login/
+* │   └── onboarding/
+* │   ├── signin/
+* │   ├── signup/
+* │   └── splash/
+* └── view_model/
+    * ├── cart_bloc/
+    * ├── home_bloc
 
 
 ## 📦 Dependencies Used
 
-  google_fonts: ^6.2.1
-  flutter_svg: ^2.2.0
-  country_code_picker: ^3.3.0
-  bloc: ^9.0.0
-  flutter_bloc: ^9.1.1
-  equatable: ^2.0.7
-  freezed_annotation: ^3.0.0
-  json_annotation: ^4.9.0
-  freezed: ^3.0.6
-  shared_preferences: ^2.5.3
+ *  google_fonts: ^6.2.1
+ *  flutter_svg: ^2.2.0
+ *  country_code_picker: ^3.3.0
+ *  bloc: ^9.0.0
+ *  flutter_bloc: ^9.1.1
+ *  equatable: ^2.0.7
+ *  freezed_annotation: ^3.0.0
+ *  json_annotation: ^4.9.0
+ *  freezed: ^3.0.6
+ *  shared_preferences: ^2.5.3
 
-dev_dependencies:
-  json_serializable: ^6.9.5
-  build_runner: ^2.5.4
-  freezed: ^3.0.6
+* dev_dependencies:
+  * json_serializable: ^6.9.5
+  * build_runner: ^2.5.4
+  * freezed: ^3.0.6
 
 
 ## ⚙️ Technical Decisions
